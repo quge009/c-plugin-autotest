@@ -1,1 +1,1 @@
-# c_plutin_deploy
+# c-plugin-autotest
